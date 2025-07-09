@@ -1,0 +1,1 @@
+cookie = "YOUR_ROBLOX_COOKIE_HERE"
